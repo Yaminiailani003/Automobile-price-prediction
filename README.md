@@ -21,7 +21,7 @@ Use Machine learning to predict the price of a car based on several characterist
 - 8. engine-location: front, rear. 
 - 9. wheel-base: continuous from 86.6 120.9. 
 - 10. length: continuous from 141.1 to 208.1. 
-- 11 width: continuous from 60.3 to 72.3. 
+- 11. width: continuous from 60.3 to 72.3. 
 - 12. height: continuous from 47.8 to 59.8. 
 - 13. curb-weight: continuous from 1488 to 4066. 
 - 14. engine-type: dohc, dohcv, l, ohc, ohcf, ohcv, rotor. 
